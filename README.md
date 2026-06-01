@@ -100,6 +100,6 @@ images/
 
 ## Author
 
-Shubham Shaw
+Vaishnavi Ray
 ECE Undergraduate
 Machine Learning & VLSI Enthusiast
