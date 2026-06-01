@@ -1,0 +1,7 @@
+Model,Accuracy (%),Precision,Recall,F1 Score
+Logistic Regression,97.43,0.06,0.92,0.11
+Decision Tree,99.7,0.34,0.78,0.47
+Random Forest,99.95,0.86,0.82,0.84
+KNN,99.81,0.46,0.88,0.61
+AdaBoost,97.18,0.05,0.91,0.1
+XGBoost,99.72,0.37,0.87,0.52
